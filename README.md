@@ -1,7 +1,7 @@
 
 Olá, Eu Sou Gabriel Lopes.
 
-- 🔭 Eu ainda não estou trabalhando em nada profissional.
+- 🔭 Estagiario na Empresa Infire Soluções Digitais.
 - 🌱 Eu estou estudando HTML/CSS e JavaScript.
 - 📫 Me contate em: gabriellopes9135@gmail.com ou pelo Número: (28) 99962-9961.
 
