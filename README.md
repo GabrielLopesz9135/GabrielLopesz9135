@@ -25,6 +25,6 @@ Olá, Eu Sou Gabriel Lopes.
   <a href = "mailto:gabriellopes9135@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-lopes-ribeiro-da-costa-27575b254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![snake gif](https://github.com/GabrielLopesz9135/GabrielLopesz9135/blob/output/github-contribution-grid-snake.svg)
+ 
  
  </div>
