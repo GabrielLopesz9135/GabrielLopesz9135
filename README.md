@@ -5,7 +5,7 @@ Olá, Eu Sou Gabriel Lopes.
 - 🌱 Eu estou estudando PHP e Laravel.
 - 📫 Me contate em: gabriellopes9135@gmail.com ou pelo Número: (28) 99962-9961.
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/GabrielLopesz9135">
    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLopesz9135&layout=compact&langs_count=7&theme=dark"/>
 </div>
