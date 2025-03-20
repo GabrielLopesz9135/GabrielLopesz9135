@@ -7,7 +7,7 @@ Olá, Eu Sou Gabriel Lopes.
 
 <div align="left">
   <a href="https://github.com/GabrielLopesz9135">
-   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLopesz9135&layout=compact&langs_count=7&theme=dark"/>
+   <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLopesz9135&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="bill-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
