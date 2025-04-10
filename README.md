@@ -1,7 +1,7 @@
 
 Olá, Eu Sou Gabriel Lopes.
 
-- 🔭 Estagiario na Empresa Infire Soluções Digitais.
+- 🔭 Funcionario da Empresa Infire Soluções Digitais.
 - 🌱 Eu estou estudando PHP e Laravel.
 - 📫 Me contate em: gabriellopes9135@gmail.com ou pelo Número: (28) 99962-9961.
 
