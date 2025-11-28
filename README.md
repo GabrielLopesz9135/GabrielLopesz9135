@@ -1,5 +1,5 @@
 
-Olá, Eu Sou Gabriel Lopes.
+Olá, Eu Sou Gabriel Lopes
 
 - 🔭 Funcionario da Empresa Infire Soluções Digitais.
 - 🌱 Eu estou estudando Back End.
